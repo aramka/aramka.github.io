@@ -1,6 +1,6 @@
 ﻿# Minimal .NET Interceptor Source Generator
 After looking at a few articles about .NET Interceptors I got a minimal project working. Quick and dirty.<br>
-
+[The code is here](https://github.com/aramka/MinimalDotNetInterceptorSourceGenerator)
 ## Key Bits
 Its an experimental feature as of 2026-04-25. See [here](https://github.com/dotnet/roslyn/blob/main/docs/features/interceptors.md)<br>
 The csproj, the one that has Program.cs, that will make use of the generator must:
